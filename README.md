@@ -1,6 +1,6 @@
 # Daily Text Stats 01
 
-This repository contains a Python script that scans text and code files in the project, 
+This repository contains a Python script that scans text and code files in the projec, 
 computes statistics (lines, words, characters), and saves the results into a JSON report.
 
 ## Features
